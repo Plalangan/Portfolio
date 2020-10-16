@@ -1,0 +1,21 @@
+.projects {
+    margin-left: 100px;
+    margin-right: 100px;
+    height: 100%;
+}
+
+.nav-link {
+    color: white;
+    
+}
+
+.main { 
+    background-color: bisque;
+    position: absolute;
+    height: 100%;
+    padding-bottom: 60px;
+}
+
+.card {
+    color: white;
+}
