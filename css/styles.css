@@ -1,6 +1,6 @@
 .projects {
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
     height: 100%;
 }
 
@@ -10,12 +10,17 @@
 }
 
 .main { 
-    background-color: bisque;
+    background-color: white;
     height: 100%;
     padding-bottom: 60px;
 }
 
 .card {
-    color: white;
+    color: black;
     margin-bottom: 50px;
+    border: none;
+}
+
+.project {
+    height: 30%;
 }
